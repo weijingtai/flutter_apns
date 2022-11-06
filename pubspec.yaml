@@ -17,9 +17,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  firebase_core: ^1.19.2
-  firebase_messaging: ^12.0.0
-  flutter_apns_only: ^1.5.2
+  firebase_core: ^2.1.1
+  firebase_messaging: ^14.0.4
+  flutter_apns_only: ^1.6.0
 
 dev_dependencies:
   flutter_test:
